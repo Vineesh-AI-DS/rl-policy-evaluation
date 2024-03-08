@@ -79,11 +79,10 @@ else:
 ### POLICY 1
 ![o1](https://github.com/Vineesh-AI-DS/rl-policy-evaluation/assets/93427254/16bce42f-c325-4998-8519-969130122cef)
 
-
+![o2](https://github.com/Vineesh-AI-DS/rl-policy-evaluation/assets/93427254/7c6de7a3-83f8-4ddb-8ec4-5db25f3c351a)
 
 
 ### POLICY 2
-![o2](https://github.com/Vineesh-AI-DS/rl-policy-evaluation/assets/93427254/7c6de7a3-83f8-4ddb-8ec4-5db25f3c351a)
 
 
 ![o3 (1)](https://github.com/Vineesh-AI-DS/rl-policy-evaluation/assets/93427254/656e5e05-d6b5-4792-bd1d-4dfd047200a6)
